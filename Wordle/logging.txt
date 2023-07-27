@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-26T06:21:57.492174Z</date>
+  <millis>1656224517492</millis>
+  <nanos>174000</nanos>
+  <sequence>0</sequence>
+  <logger>controller.ReadWordsRunnable</logger>
+  <level>INFO</level>
+  <class>controller.ReadWordsRunnable</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Created word list of 4435 words.</message>
+</record>
+</log>
